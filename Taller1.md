@@ -31,12 +31,11 @@ $$\max Z = 60x_1 + 130x_2 + 400x_3 x_3 + 90x_4$$
 
 Kelson Sporting fabrica dos modelos de guantes de beisbol: uno normal y uno manopla de catcher. La empresa tiene disponibles 900 horas de tiempo de producción en su departamento de corte y costura, 300 horas disponibles en su departamento de terminado y 100 horas disponibles en su departamento de empaque y embarque. Los requerimientos de tiempo y de producción y la contribución a la utilidad de cada uno de los productos es:
 
-| MODELO           | TIEMPO DE PRODUCCIÓN (HORAS) ||| UTILIDAD/GUANTE |
-|------------------|-----------------------------|---|---|-------------|
-|                  | Corte y Costura             | Terminado | Empaque y Embarque |             |
-|------------------|-----------------------------|-----------|--------------------|-------------|
-| Guante Normal    | 1                           | 1/2       | 1/8                | $5          |
-| Manopla Catcher  | 3/2                         | 1/3       | 1/4                | $8          |
+| MODELO | T. PRODUCCIÓN (HORAS)||| UTILIDAD/GUANTE |
+|-|-|-|-|-|
+| | Corte y Costura | Terminado | Empaque||
+| Guante Normal    | 1  | 1/2  | 1/8 | $5  |
+| Manopla Catcher  | 3/2  | 1/3 | 1/4  | $8 |
 
 
 ## Solución:
