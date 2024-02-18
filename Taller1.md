@@ -26,8 +26,7 @@ $$\max Z = 60x_1 + 130x_2 + 400x_3 x_3 + 90x_4$$
 - $x_1 \geq x_2$
 - $x_3 \geq x_4$
 - $x_2 + \frac{3}{4}x_4 \leq 8$
----
----
+
 ## Ejercicio 2
 
 Kelson Sporting fabrica dos modelos de guantes de beisbol: uno normal y uno manopla de catcher. La empresa tiene disponibles 900 horas de tiempo de producción en su departamento de corte y costura, 300 horas disponibles en su departamento de terminado y 100 horas disponibles en su departamento de empaque y embarque. Los requerimientos de tiempo y de producción y la contribución a la utilidad de cada uno de los productos es:
